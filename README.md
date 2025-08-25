@@ -1,2 +1,2 @@
-# blackboxai-1756134328897
-Built by https://www.blackbox.ai
+# Bussiness manager
+Hecho con IA y supervisado por mi lnp
